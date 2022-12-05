@@ -11,3 +11,6 @@
   Ссылка на анкету:https://www.sololearn.com/profile/27723981
 # PHP. Задача 6
   Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task06
+# PHP. Задача 7
+  Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task07
+  
