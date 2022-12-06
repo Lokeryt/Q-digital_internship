@@ -13,4 +13,5 @@
   Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task06
 # PHP. Задача 7
   Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task07
-  
+# PHP, MVC. Задача 8
+  Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task08
