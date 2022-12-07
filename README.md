@@ -6,7 +6,7 @@
 # MYSQL. Задача 3
   Ссылка на анкету:https://www.sololearn.com/profile/27723981
 # MYSQL. Задача 4
-  ![image](https://user-images.githubusercontent.com/84319426/205336602-a23d09a0-8fdf-4629-a847-ee8a8e237ca5.png)
+  ![image](https://user-images.githubusercontent.com/84319426/206223360-f3ecb4ca-0ee8-4b6c-88e2-c9a86f1245c3.png)
 # PHP. Задача 5
   Ссылка на анкету:https://www.sololearn.com/profile/27723981
 # PHP. Задача 6
