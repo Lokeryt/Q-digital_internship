@@ -15,5 +15,8 @@
   Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task07
 # PHP, MVC. Задача 8
   Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task08
-# PHP, MVC. Задача 9
+# PHP, Laravel. Задача 9
+ Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task09
+# PHP, Laravel. Задача 10
+ Ветка library
  Ссылка на репозиторий:https://github.com/Lokeryt/Q-digital_GIT_Task09
